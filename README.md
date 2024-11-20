@@ -4,6 +4,21 @@
 
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/3696c495-a773-4666-b91a-2d28a60d3102">
 
+### Winner:
+
+* The winner for $100 is @nicogs! The pitch is that going on vacation is more about motivation than planning. This visualization of how much of your life has passed is very impactful! Take That Trip!
+https://github.com/Algorithm-Arena/weekly-challenge-30-vacation-planner/issues/1
+
+
+https://github.com/user-attachments/assets/1cb5233a-3145-4359-b336-af85052c3a42
+
+
+* In second place for $75 is @Uzo2005! LLM-based chatbots are really useful to plan vacations and this one doesn't disappoint. https://github.com/Algorithm-Arena/weekly-challenge-30-vacation-planner/issues/2
+
+
+https://github.com/user-attachments/assets/2460dcfd-d2ad-412c-98b4-ad355b854343
+
+
 ### Prizes:
 * Winner: $100
 * 2nd: $75
